@@ -79,8 +79,8 @@
 			children = (
 				C3054F5421DA0AF200FB361B /* AppDelegate.swift */,
 				C3054F5621DA0AF200FB361B /* ViewController.swift */,
-				C3054F5821DA0AF200FB361B /* Main.storyboard */,
 				C3054F5B21DA0AF300FB361B /* Assets.xcassets */,
+				C3054F5821DA0AF200FB361B /* Main.storyboard */,
 				C3054F5D21DA0AF300FB361B /* LaunchScreen.storyboard */,
 				C3054F6021DA0AF300FB361B /* Info.plist */,
 			);
